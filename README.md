@@ -1,2 +1,2 @@
-# C-
+# C++
 剑指Offer Prectice
